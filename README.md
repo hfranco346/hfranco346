@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Henderson Franco</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Henderson Franco -->
 
@@ -63,6 +63,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/hfranco346)
+
 
 Last Edited on: 11/12/2020
