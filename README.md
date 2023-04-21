@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100"/>
 </div>
 <!--
 **hfranco346/hfranco346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
