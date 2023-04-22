@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🧱 &nbsp;I'm currently working on <a href="https://www.bairesdev.com/" target="_blank">BairesDev</a>\
-🎓 &nbsp;I graduated as an engineer in computer science at the <a href="https://www.unicah.edu/" target="_blank">UNICA.</a>\
+🎓 &nbsp;I graduated as an engineer in computer science at the <a href="https://www.unicah.edu/" target="_blank">UNICAH.</a>\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 📚 &nbsp;I'm keep practicing and improving my english level
@@ -18,6 +18,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
