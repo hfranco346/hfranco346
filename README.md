@@ -41,7 +41,7 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/henderson-franco/"><img src="https://img.shields.io/badge/-Henderson%20Franco%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/henderson-franco/"><img src="https://img.shields.io/badge/-Henderson%20Franco-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hfranco346@gmail.com"><img src="https://img.shields.io/badge/-hfranco346@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://facebook.com/HendersonFC"><img src="https://img.shields.io/badge/-@hfranco346-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
