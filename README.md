@@ -11,7 +11,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 📚 &nbsp;I'm keep practicing and improving my english level.\
-⥮ &nbsp;In my free time I'm working in my side project related to AI and Food.
+🍽️ &nbsp;In my free time I'm working in my side project related to AI and Food.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
