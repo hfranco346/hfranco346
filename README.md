@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧱 &nbsp;I'm currently working on <a href="https://www.bairesdev.com/" target="_blank">BairesDev</a>\
+🧱 &nbsp;I'm currently working at <a href="https://www.bairesdev.com/" target="_blank">BairesDev</a>\
 🎓 &nbsp;I graduated as an engineer in computer science at the <a href="https://www.unicah.edu/" target="_blank">UNICAH.</a>\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
